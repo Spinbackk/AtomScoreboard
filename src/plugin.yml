@@ -1,0 +1,6 @@
+name: AtomScoreboard
+version: 1.3.3.7
+author: schaefer
+main: scha.efer.scoreboard.ScoreboardPlugin
+softdepend:
+  - Vault
